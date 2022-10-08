@@ -1,5 +1,17 @@
 .container {
-  padding: 0 2rem;
+  /* padding: 0 2rem; */
+}
+
+.containerNav {
+  background: crimson;
+  text-align: center;
+  font-size: 1.2rem;
+  color: #fafafa;
+  font-weight: 800;
+  font-family: cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .main {
